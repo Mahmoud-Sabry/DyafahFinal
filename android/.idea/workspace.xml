@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47409301-55d7-426c-8eaa-aec2ddf39190" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Dyafah.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Dyafah.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Dyafah/AppDelegate.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Dyafah/AppDelegate.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/AppAuth/WorkerReg/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/AppAuth/WorkerReg/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Provider/AddProduct/AddEating.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Provider/AddProduct/AddEating.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Provider/AddProduct/AddPlace.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Provider/AddProduct/AddPlace.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Provider/AddProduct/addCar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Provider/AddProduct/addCar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Provider/EditOffer/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Provider/EditOffer/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Provider/EditProduct/EatingDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Provider/EditProduct/EatingDetails.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Provider/EditProduct/PlaceDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Provider/EditProduct/PlaceDetails.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Provider/Offers/ChooseProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Provider/Offers/ChooseProduct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Provider/Orders/OrderStatus.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Provider/Orders/OrderStatus.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Provider/Orders/TabelRows.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Provider/Orders/TabelRows.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Provider/Orders/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Provider/Orders/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Provider/Profile/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Provider/Profile/profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Provider/Settings/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Provider/Settings/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Auth/ChangePhoto.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Auth/ChangePhoto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Auth/editProfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Auth/editProfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Auth/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Auth/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Auth/registerCar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Auth/registerCar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Auth/registerProvider.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Auth/registerProvider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Cars/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Cars/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Main/createOrder.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Main/createOrder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Main/language.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Main/language.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Main/rateOrder.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Main/rateOrder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Main/rateProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Main/rateProduct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Main/sendToken.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Main/sendToken.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Main/showCart.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Main/showCart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Main/updateUserProfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Main/updateUserProfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/Eating/addEating.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/Eating/addEating.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/Eating/editEating.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/Eating/editEating.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/Orders/acceptRefuse.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/Orders/acceptRefuse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/Orders/changeStatus.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/Orders/changeStatus.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/Places/addPlace.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/Places/addPlace.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/Places/editPlace.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/Places/editPlace.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/addCarProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/addCarProduct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/addNewOffer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/addNewOffer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/deleteOffer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/deleteOffer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/deleteProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/deleteProduct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/editCarProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/editCarProduct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/helpers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/productDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/productDetails.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/updateOffer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Provider/updateOffer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/User/Auth/confirmCode.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/User/Auth/confirmCode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/User/Auth/confirmEmail.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/User/Auth/confirmEmail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/User/Home/carProducts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/User/Home/carProducts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/User/Home/changePhoto.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/User/Home/changePhoto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/User/Home/eatingProducts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/User/Home/eatingProducts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/User/Home/getPlaces.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/User/Home/getPlaces.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/User/Home/workers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/User/Home/workers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Worker/Orders/acceptRefuse.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Worker/Orders/acceptRefuse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Worker/Orders/changeStatus.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Worker/Orders/changeStatus.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Worker/editWorkerInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Worker/editWorkerInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/Worker/helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/Worker/helpers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Sagas/sagas.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Sagas/sagas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Slices/Auth/registerCar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Slices/Auth/registerCar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Slices/Main/appUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Slices/Main/appUser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Slices/Provider/info.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Slices/Provider/info.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Slices/User/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Slices/User/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Slices/Worker/info.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Slices/Worker/info.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Worker/EditProfile/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Worker/EditProfile/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Worker/EditProfile/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Worker/EditProfile/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Worker/Profile/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Worker/Profile/profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Worker/Settings/PassSec.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Worker/Settings/PassSec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Worker/Settings/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Worker/Settings/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/consts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/assets/consts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/BackButton/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/BackButton/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/BillMessage/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/BillMessage/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/BillMessage/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/BillMessage/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/CalendarObj/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/CalendarObj/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/ChangePasswordPopup/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/ChangePasswordPopup/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/Comment/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/Comment/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/ConfirmMessage/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/ConfirmMessage/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/Favorites/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/Favorites/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/Favorites/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/Favorites/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/FoodList/FoodItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/FoodList/FoodItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/FoodList/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/FoodList/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/FoodList/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/FoodList/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/FoodOrderDetails/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/FoodOrderDetails/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/FoodOrderDetails/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/FoodOrderDetails/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/KashtaButton/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/KashtaButton/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/LogoutPopup/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/LogoutPopup/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/MultiChoiceModal/RateModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/MultiChoiceModal/RateModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/MultiChoiceModal/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/MultiChoiceModal/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/MultiChoiceModal/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/MultiChoiceModal/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/PastOrders/OrderItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/PastOrders/OrderItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/PastOrders/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/PastOrders/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/PastOrders/orderView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/PastOrders/orderView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/PastOrders/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/PastOrders/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/PhoneCode/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/PhoneCode/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/ProviderDrawer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/ProviderDrawer/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/ProviderDrawer/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/ProviderDrawer/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/UserDrawer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/UserDrawer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/WorkerDrawer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/WorkerDrawer/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/WorkerDrawer/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/WorkerDrawer/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/categoryButton/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/categoryButton/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/drawerItem/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/drawerItem/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/header/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/custom/header/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/custom/header/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/languages/ar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/languages/ar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/languages/en.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/languages/en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/navigation/ProviderDrawer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/navigation/ProviderDrawer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/navigation/WorkerDrawer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/navigation/WorkerDrawer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/navigation/userDrawer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/navigation/userDrawer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/CarsPage/CarItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/CarsPage/CarItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/CarsPage/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/CarsPage/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/CarsPage/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/CarsPage/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/Cart/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/Cart/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/Cart/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/Cart/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/ChooseDate/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/ChooseDate/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/FoodItem/ItemDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/FoodItem/ItemDetails.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/FoodItem/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/FoodItem/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/Login/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/Login/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/Places/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/Places/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/Register/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/Register/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/Register/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/Register/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/SearchFilter/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/SearchFilter/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/UserInfo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/UserInfo/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/UserInfo/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/UserInfo/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/UserProfile/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/UserProfile/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/UserProfile/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/UserProfile/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/WorkerView/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/WorkerView/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/WorkerView/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/WorkerView/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/Workers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/Workers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/Workers/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/Workers/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/Workers/worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/Workers/worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/user/home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/user/home/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_29_x86" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hgZjXLvqH6FadrghQOhei7JJW1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47409301-55d7-426c-8eaa-aec2ddf39190" name="Default Changelist" comment="" />
+      <created>1600434831365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600434831365</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="310" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1609932263566">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="310" y="232" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1609932263566" />
+  </component>
+</project>

@@ -1,0 +1,240 @@
+import { StyleSheet, Dimensions } from 'react-native'
+const { width, height } = Dimensions.get('screen');
+
+const styles = StyleSheet.create({
+    container: {
+        flex: 1,
+        backgroundColor: '#ffffff'
+    },
+    scrollContainer: {
+        flex: 1,
+        backgroundColor: '#ffffff',
+        marginHorizontal: 20,
+    },
+    titleView: {
+        width: width * .6,
+        marginHorizontal: width * .2,
+        borderRadius: 15,
+        height: 60,
+        backgroundColor: '#F7901F',
+        justifyContent: 'center',
+        alignItems: 'center',
+        marginVertical: 15,
+    },
+    titleText: {
+        fontFamily: 'Cairo-SemiBold',
+        fontSize: 18,
+        color: '#ffffff',
+    },
+    nameView: {
+        flexDirection: 'row-reverse',
+        justifyContent: 'space-between',
+        marginVertical: 15,
+    },
+    textName: {
+        width: width * .42,
+        height: 60,
+        backgroundColor: '#ffffff',
+        borderWidth: 1,
+        borderColor: '#707070',
+        borderRadius: 20,
+        justifyContent: 'center',
+        alignItems: 'center',
+        fontSize: 18,
+        fontFamily: 'Cairo-Regular',
+        color: '#D6CFC8',
+        textAlign: 'center',
+    },
+    inputStyle: {
+        width: width - 40,
+        height: 60,
+        backgroundColor: '#ffffff',
+        borderWidth: 1,
+        borderColor: '#707070',
+        borderRadius: 20,
+        justifyContent: 'center',
+        alignItems: 'center',
+        fontSize: 18,
+        fontFamily: 'Cairo-Regular',
+        color: '#D6CFC8',
+        textAlign: 'right',
+        paddingHorizontal: 20,
+        marginVertical: 10,
+    },
+    addressView: {
+        flexDirection: 'row-reverse',
+        borderRadius: 20,
+        width: width - 40,
+        justifyContent: 'space-between',
+        alignItems: 'center',
+        borderWidth: 1,
+        borderColor: '#707070',
+    },
+    addressStyle: {
+        width: width - 100,
+        height: 60,
+        backgroundColor: '#ffffff',
+        borderRadius: 20,
+        justifyContent: 'center',
+        alignItems: 'center',
+        fontSize: 18,
+        fontFamily: 'Cairo-Regular',
+        color: '#D6CFC8',
+        textAlign: 'right',
+        paddingHorizontal: 20
+    },
+    addressIcon: {
+        fontSize: 40,
+        color: '#707070',
+        marginHorizontal: 20
+    },
+    radioLabels: {
+        fontSize: 15,
+        fontFamily: 'Cairo-Regular',
+        marginVertical: 3
+    },
+    salaryView: {
+        width: width - 40,
+        // height: 300,
+        backgroundColor: '#F6F4F1',
+        borderRadius: 20,
+        marginVertical: 10,
+        paddingHorizontal: 10,
+        paddingVertical: 10,
+    },
+    salaryRow: {
+        flexDirection: 'row-reverse',
+        justifyContent: 'space-between',
+        // alignItems: 'center',
+    },
+    salaryText: {
+        fontFamily: 'Cairo-Regular',
+        fontSize: 18,
+        color: '#64615E',
+        width: 110,
+        textAlign: 'right',
+    },
+    priceText: {
+        fontFamily: 'Cairo-Regular',
+        fontSize: 20,
+        color: '#64615E',
+        width: 80,
+        textAlign: 'right',
+        marginHorizontal: 20
+    },
+    totalText: {
+        fontFamily: 'Cairo-Bold',
+        fontSize: 20,
+        color: '#64615E',
+        width: 120,
+        textAlign: 'right',
+    },
+    totalPrice: {
+        fontFamily: 'Cairo-Bold',
+        fontSize: 20,
+        color: '#64615E',
+        width: 80,
+        textAlign: 'right',
+        marginHorizontal: 10
+    },
+    button: {
+        paddingHorizontal: 10,
+        alignSelf: 'center',
+        marginVertical: 5,
+        minWidth: 160,
+        height: 50,
+        borderRadius: 12,
+    },
+    rowView: {
+        flexDirection: 'row-reverse',
+        alignItems: 'center',
+    },
+    icon: {
+        color: '#F47421',
+        fontSize: 20,
+    },
+    textRow: {
+        fontFamily: 'Cairo-Regular',
+        fontSize: 17,
+        color: '#64615E',
+        textAlign: 'right',
+        marginHorizontal: 10
+    },
+    infoRow: {
+        flexDirection: 'row-reverse',
+        height: 30,
+        alignItems: 'center',
+        marginHorizontal: 20,
+    },
+    infoTitle: {
+        flex: 2,
+        fontFamily: 'Cairo-Regular',
+        fontSize: 15,
+        color: '#64615E',
+        textAlign: 'right',
+    },
+    infoCost: {
+        flex: 2,
+        fontFamily: 'Cairo-Regular',
+        fontSize: 15,
+        color: '#64615E',
+        textAlign: 'center',
+    },
+    infoTag: {
+        flex: 2,
+        fontFamily: 'Cairo-Regular',
+        fontSize: 15,
+        color: '#64615E',
+        textAlign: 'center',
+    },
+    infoList: {
+        width: width * .91,
+        height: 150,
+        justifyContent: 'center',
+        backgroundColor: 'rgba(246, 244, 241, .63)',
+        borderRadius: 20,
+        alignSelf: 'center',
+        marginVertical: 25,
+    },
+    infoTotalTitle: {
+        flex: 2,
+        fontFamily: 'Cairo-Bold',
+        fontSize: 17,
+        color: '#64615E',
+        textAlign: 'right',
+    },
+    infoTotalCost: {
+        flex: 2,
+        fontFamily: 'Cairo-Bold',
+        fontSize: 17,
+        color: '#64615E',
+        textAlign: 'center',
+    },
+    infoTotalTag: {
+        flex: 2,
+        fontFamily: 'Cairo-Bold',
+        fontSize: 17,
+        color: '#64615E',
+        textAlign: 'center',
+    },
+    authText: {
+        fontFamily: 'Cairo-Bold',
+        fontSize: 20,
+        textAlign: 'center',
+        marginTop: 50,
+        color: '#f05a28'
+    },
+    loginButton: {
+        minWidth: 150,
+        minHeight: 40,
+        padding: 10,
+        borderRadius: 10,
+        backgroundColor: '#F47421',
+        alignSelf: 'center',
+        justifyContent: 'center',
+        alignItems: 'center',
+        marginVertical: 15,
+    }
+})
+
+export default styles
